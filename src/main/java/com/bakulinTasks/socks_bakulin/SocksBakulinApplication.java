@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SocksBakulinApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(SocksBakulinApplication.class, args);
 	}
 
